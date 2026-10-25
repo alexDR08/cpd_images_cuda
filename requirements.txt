@@ -1,0 +1,5 @@
+numpy<2.4
+numba
+numba-cuda[cu13]
+pillow
+matplotlib
